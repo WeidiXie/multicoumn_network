@@ -28,7 +28,7 @@ Meta Information (https://www.dropbox.com/sh/3tk5fjl6i08u9xi/AAD5Dzb340RYW9eV4iY
 
 
 ### Testing the model
-To test the model on the IJBB dataset, 
+To test the model on the IJBB dataset, go to src/
 
 - python predict.py 
 
