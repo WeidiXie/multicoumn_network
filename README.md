@@ -22,7 +22,7 @@ Meta Information (https://www.dropbox.com/sh/3tk5fjl6i08u9xi/AAD5Dzb340RYW9eV4iY
 ### Results on IJBB verification (Table 3 in the paper):
 
 | Arch | TAR@FAR = 1e-5 | TAR@FAR = 1e-4 | TAR@FAR = 1e-3 | TAR@FAR = 1e-2 | TAR@FAR = 1e-1 |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 |   MN-v  | 0.683 | 0.818 | 0.902 | 0.955 | 0.984 |
 |   MN-vc | 0.708 | 0.831 | 0.909 | 0.958 | 0.985 |
 
