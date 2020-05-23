@@ -14,7 +14,7 @@ This repo contains a Keras code of the paper,
 
 Keras Model (https://www.dropbox.com/sh/glh67gh049m86c2/AAB_PYuwPiCv557juxIAZqYLa?dl=0),
 
-IJBB Dataset (preprocessed) (https://www.dropbox.com/s/t42qmx1yef00iia/ijbb_crop.tar.gz?dl=0)
+IJBB Dataset (Preprocessed) (https://www.dropbox.com/s/t42qmx1yef00iia/ijbb_crop.tar.gz?dl=0)
 
 Meta Information (https://www.dropbox.com/sh/3tk5fjl6i08u9xi/AAD5Dzb340RYW9eV4iY1Vdnea?dl=0)
 
