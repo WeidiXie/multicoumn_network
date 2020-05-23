@@ -6,7 +6,6 @@ This repo contains a Keras code of the paper,
 
 
 ### Dependencies
-- [python]
 - [Keras 2.2.4](https://keras.io/)
 - [Tensorflow 1.8.0](https://www.tensorflow.org/)
 
